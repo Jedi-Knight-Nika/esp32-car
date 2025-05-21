@@ -11,3 +11,4 @@ TODO:
 5. Joystick control via WiFi;
 6. OTA updates;
 7. obstacle detection;
+8. add remote control capability using MQTT;
